@@ -15,3 +15,4 @@ if __name__ == '__main__':
         val=int(val)
 
         sys.stdout.write("{}   {}   {}\n".format(key,date ,val))
+            
